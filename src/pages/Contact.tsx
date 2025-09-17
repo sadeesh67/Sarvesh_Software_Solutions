@@ -13,19 +13,19 @@ const Contact: React.FC = () => {
     {
       icon: <MapPinIcon className="h-6 w-6" />,
       title: 'Address',
-      content: 'Chennai, India',
+      content: 'FLAT NO.F2, BN FLAT, PLOT NO.5, KUPPUSAMY NAGAR, SIVABOOTHAM, VANAGARAM, CHENNAI-600 095, India',
       subContent: 'Serving clients worldwide'
     },
     {
       icon: <PhoneIcon className="h-6 w-6" />,
       title: 'Phone',
-      content: '+91-98765-43210',
+      content: '+91-93448-21040',
       subContent: 'Mon-Fri 9AM-6PM IST'
     },
     {
       icon: <EnvelopeIcon className="h-6 w-6" />,
       title: 'Email',
-      content: 'contact@company.com',
+      content: 'sarvesh@sarveshsoftwaresolutions.com',
       subContent: 'We reply within 24 hours'
     },
     {

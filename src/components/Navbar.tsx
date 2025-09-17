@@ -31,7 +31,7 @@ const Navbar: React.FC<NavbarProps> = ({ darkMode, toggleDarkMode }) => {
               whileHover={{ scale: 1.05 }}
               className="text-2xl font-bold text-slate-700 dark:text-green-400"
             >
-              IndustrialTech
+              Sarvesh Software Solutions
             </motion.div>
           </Link>
 

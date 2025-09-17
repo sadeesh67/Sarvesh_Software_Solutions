@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div>
             <h3 className="text-lg font-semibold text-slate-700 dark:text-green-400 mb-4">
-              IndustrialTech
+              Sarvesh Software Solutions
             </h3>
             <p className="text-slate-600 dark:text-gray-300 mb-4">
               Building digital bridges between machines and business systems.
